@@ -30,4 +30,4 @@ Large Language Models achieved remarkable capabilities, but their inference spee
 ## ⚙️ Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/LLM-Latency-Predictor.git](https://github.com/yourusername/LLM-Latency-Predictor.git)
+   git clone [https://github.com/ShahJahanBrohii/LLM-Latency-Predictor.git](https://github.com/ShahJahanBrohii/LLM-Latency-Predictor.git)
